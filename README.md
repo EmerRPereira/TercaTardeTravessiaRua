@@ -1,5 +1,5 @@
-# Terça-feira Tarde Travessia da Rua
-## Jogo Travessia da Rua
+# Jogo Travessia da Rua
+## Terça-feira Tarde
 
 ### ***I N S T R U Ç Õ E S***
 
